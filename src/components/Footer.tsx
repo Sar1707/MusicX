@@ -64,6 +64,7 @@ function Footer() {
             >
               Discord
             </a>
+            <br/>
             <a
               href="https://www.instagram.com/sarvesh_1703/"
               className="hover:text-white transition-colors duration-300"
